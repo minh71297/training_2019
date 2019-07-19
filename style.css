@@ -1,0 +1,149 @@
+h1 {
+	text-align: center;
+	font-family: Arial, sans-serif;	
+}
+
+div {
+	display: block;
+}
+
+.search i {
+	margin: 2px 0 0 -27px;
+}
+.search input{
+	width: 600px;
+	height: 30px;
+	border: 1px solid;
+	border-radius: 10px;	
+	margin-left: 50px;
+}
+
+.btnSignin, .btnCreate {
+	width: 250px;
+	height: 30px;
+	border: 1px solid;
+	border-radius: 10px;	
+	margin:10px 10px;
+}
+.btnShop {
+	width: 260px;
+	height: 30px;
+	border: 1px solid;
+	border-radius: 10px;	
+	margin-top:20px;
+}
+
+.btnShopdetail {
+	width: 185px;
+	height: 30px;
+	border: 1px solid;
+	border-radius: 10px;	
+	margin-top:20px;
+}
+
+img.coverpage {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+	width: 92%;
+	height: 80%;	
+}
+
+.menu {
+	padding-top: 5px;
+}
+
+.menu li {
+	list-style: none;
+	display: inline-block;
+	padding-left: 10px;
+	color: #000;
+	font-weight: bold;
+}
+
+.col-md-4 {
+	padding-top: 10px;
+}
+
+.main {
+
+}
+
+.row ul {
+	list-style: none;
+}
+
+.row img{
+	padding-left: 50px;
+}
+
+.col {
+	display: table-cell;
+}
+
+.listpet {
+	font-size: 27px;
+	font-weight: bold;
+	font-family: Avqest;
+	margin: 40px 0 0 50px;
+}
+
+.footercontent li {
+	list-style: none;
+	font-family: Avqest;
+	font-size: 17px;
+	padding-left: 10px;
+	
+}
+
+.footercontent h4 {
+	font-family: Avqest;
+	font-size: 16px;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+.return {
+	width: 92%;
+	text-align: center;
+	padding-top: 8px;
+	background: grey;
+	height: 40px;
+	margin: auto;
+}
+
+footer {
+	width: 100%;
+	/*background: #4d86b3;*/
+	/*padding-bottom: 20px;*/
+}
+
+.f-grid {
+    display: flex;
+    /*justify-content: center;*/
+    padding-left: 1rem;
+    flex-flow: row wrap;
+}
+
+.f-grid-col {
+    flex: 1 0;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+.f-grid-col li {
+	list-style: none;
+}
+
+.f-grid-col img {
+	margin: 10px 5px 10px 0px;
+}
+
+
+/*.wrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-rows: 100px 100px;
+}*/
