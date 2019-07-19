@@ -11,7 +11,7 @@ Liên kết
 
 
 Hướng dẫn cài đặt test/sử dụng
-- Chạy file lesson1.html trên trình duyệt web.
+- Chạy file index.html trên trình duyệt web.
 
 Kết quả bài tập được sử dụng tiếp cho những bài sau.
 
